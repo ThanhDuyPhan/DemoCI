@@ -2,7 +2,7 @@
 using System;
 using System.Reflection;
 
-[FourAttr(12,"test","D")]
+[FourAttr(12,"test","UHT")]
 public class Class1
 {
 	[FourAttr(11,"ilu","0707")]
